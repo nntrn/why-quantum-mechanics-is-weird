@@ -6,10 +6,32 @@ Quantum weirdness occurs because we use *biology-style* identity language to exp
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
-### Quantum claims not supported by quantum math
+---
+
+**NOISY CLAIMS**  
+Not supported or even suggested by math in quantum mechanics 
 
 * "Particles being in multiple places"
 * "Properties existing before measurement"
+
+#### The math would needs something like this...
+
+For "particles being in multiple places" to be supported, math would need something like:
+```
+* joint value assignment 
+   like `position(system, time) -> {positions}`
+* probability addition 
+   like `P(A or B) = P(A) + P(B)`  
+   [not amplitude interference]
+```
+
+For "properties exist before measurement" to be supported, math would need something like:
+```
+* global hidden state 
+   like `value(system, observable) -> definite_number`
+* commuting observables 
+   like `A @ B == B @ A`
+```
 
 ## Classification
 
@@ -53,6 +75,7 @@ Examples:
 - **Good**: `see:javascript coding => infer:programmer`
 - **Bad**: `see:fast running => infer:tiger`
 
+
 [[TOP]](#top)
 
 ## Semantic Errors
@@ -71,7 +94,7 @@ Textbook says (invalid):
 (identity-first: system HAS state)
 ```
 
-Specific instances:
+### Specific instances
 
 * **"Wavefunction describes the system"**  
 Motion-first math (inference model) labeled identity-first (entity description)
@@ -156,6 +179,8 @@ In classical terms, a macroscopic object cannot simultaneously possess mutually 
 **Resolution**: 
 Motion-first: The cat-system is unresolved between "dead" and "alive" due to entanglement and decoherence; measurement or environment rapidly resolves to one outcome. The cat is not "both"-the status is an unresolved possibility, not a coexisting reality
 
+---
+
 #### 2. Wave-Particle Duality
 
 "Light and matter are both waves and particles at the same time."
@@ -169,6 +194,8 @@ Waves and particles are classically incompatible descriptions; QM seems to requi
 
 **Resolution**: 
 Motion-first: What is observed depends on the measurement context; the system resolves as wave-like or particle-like based on constraints, not as a simultaneous identity
+
+---
 
 #### 3. Collapse by Observation
 
@@ -184,6 +211,8 @@ Suggests reality depends on observers, making existence observer-dependent
 **Resolution**: 
 Motion-first: Measurement is the process of resolving constraints between system and apparatus; collapse is a description of information update, not physical creation
 
+---
+
 #### 4. Quantum Superposition as Ontological Multiplicity
 
 "A particle exists in all possible states at once until measured."
@@ -197,6 +226,8 @@ It suggests literal simultaneous existence in mutually exclusive configurations
 
 **Resolution**: 
 Motion-first: Superposition describes unresolved possibilities; measurement or environment resolves one, not coexistence
+
+---
 
 #### 5. Electron Path in Double-Slit
 
@@ -212,6 +243,8 @@ Contradicts classical logic of trajectories
 **Resolution**: 
 Motion-first: The path is not defined without measurement; probability amplitudes interfere, yielding observed distributions
 
+---
+
 #### 6. Quantum Eraser/Delayed Choice
 
 "Future choices determine past particle behavior."
@@ -226,6 +259,8 @@ Suggests retrocausality-future affects the past
 **Resolution**: 
 Motion-first: Choice of measurement basis determines which correlations are observed; no retroactive change, only change in accessible information
 
+---
+
 #### 7. Observer-Created Reality
 
 "The universe does not exist unless observed."
@@ -238,6 +273,8 @@ Collapses objective reality into subjectivity
 
 **Resolution**: 
 Motion-first: Observability is about what constraints are resolved at a given scale; existence is not created by observation, only made accessible
+
+---
 
 #### 8. Quantum Teleportation Paradox
 
@@ -273,6 +310,8 @@ The linear, deterministic Schrödinger equation does not explain why only one ou
 **Resolution**: 
 No complete solution; decoherence explains loss of interference, but not outcome selection
 
+---
+
 #### 2. Quantum Nonlocality/Bell Inequality Violations
 
 "Entangled particles influence each other instantly at a distance."
@@ -286,6 +325,8 @@ Quantum predictions violate local hidden variable constraints, but do not allow 
 
 **Resolution**: 
 No local hidden variable model can explain results; QM correlations are real and nonlocal in constraint structure, but do not transmit information faster than light
+
+---
 
 #### 3. Contextuality (Kochen-Specker)
 
@@ -301,6 +342,8 @@ Challenges the classical notion that properties exist independently of context
 **Resolution**: 
 Measurement context determines what can be resolved; properties do not exist in all bases simultaneously
 
+---
+
 #### 4. Born Rule Origin
 
 "Why do measurement probabilities follow the squared amplitude (Born rule)?"
@@ -314,6 +357,8 @@ No fundamental derivation within standard quantum theory; why this particular ru
 
 **Resolution**: 
 Remains an open question; some attempts at derivation (decision theory, Gleason's theorem), but no consensus
+
+---
 
 #### 5. Quantum-Classical Transition
 
@@ -329,6 +374,8 @@ Decoherence explains loss of interference, but not how a unique outcome is selec
 **Resolution**: 
 Partial resolution via decoherence, but the problem of outcomes persists
 
+---
+
 #### 6. Time Symmetry and Irreversibility
 
 "Quantum laws are time-symmetric, but measurement and macroscopic processes are not."
@@ -342,6 +389,8 @@ How does irreversible behavior (collapse, thermodynamics) arise from reversible 
 
 **Resolution**: 
 Still open; linked to the arrow of time, thermodynamics, and measurement
+
+---
 
 #### 7. Quantum Gravity/Space-Time Measurement
 
