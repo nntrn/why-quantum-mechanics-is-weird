@@ -6,32 +6,23 @@ Quantum weirdness occurs because we use *biology-style* identity language to exp
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
----
-
 **NOISY CLAIMS**  
 Not supported or even suggested by math in quantum mechanics 
 
 * "Particles being in multiple places"
 * "Properties existing before measurement"
 
-#### The math would needs something like this...
+To support those claims, the math would have something like:
 
-For "particles being in multiple places" to be supported, math would need something like:
-```
+[for "particles being in multiple places":]
 * joint value assignment 
-   like `position(system, time) -> {positions}`
+  like `position(system, time) -> {positions}`
 * probability addition 
-   like `P(A or B) = P(A) + P(B)`  
-   [not amplitude interference]
-```
+  like `P(A or B) = P(A) + P(B)`
 
-For "properties exist before measurement" to be supported, math would need something like:
-```
-* global hidden state 
-   like `value(system, observable) -> definite_number`
-* commuting observables 
-   like `A @ B == B @ A`
-```
+[for "properties existing before measurement":]
+* global hidden state like `value(system, observable) -> definite_number`
+* commuting observables like `A @ B == B @ A`
 
 ## Classification
 
@@ -74,7 +65,6 @@ Examples:
 - **QM**: "Measured here" => electron was probably in superposition including this location (m:1)
 - **Good**: `see:javascript coding => infer:programmer`
 - **Bad**: `see:fast running => infer:tiger`
-
 
 [[TOP]](#top)
 
