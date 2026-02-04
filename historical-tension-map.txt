@@ -1,0 +1,227 @@
+# Major Players: Tension Map
+
+## High Tension (Felt the Conflict)
+
+Heisenberg
+* Wrestles with: Being misread vs being understood
+* Math says: Only transitions observable
+* Claims: "Practical recipe" (admits limited certainty)
+* Tension: Knows it's motion-first, uses identity-first to communicate, never reconciles this, late career returns to motion-first philosophy
+* Pattern: Sacrifices purity for accessibility, regrets it implicitly
+
+Bohr
+* Wrestles with: Cannot articulate what he sees
+* Math says: Incompatible measurement contexts
+* Claims: "Complementarity" (vague, avoids certainty claims)
+* Tension: Sees motion-first structure, lacks vocabulary, uses identity-first words anyway, frustrated by own inability to be clear
+* Pattern: Understands deeply, communicates poorly, becomes oracle
+
+Born
+* Wrestles with: Math vs physical intuition
+* Math says: |ψ|² is probability from measurement
+* Claims: "Probability interpretation" (explicitly uncertain)
+* Tension: Correct motion-first insight, immediately dismissed by identity-first physicists, watches his insight get buried in identity-first language
+* Pattern: Right answer, no cultural power, doesn't fight hard enough
+
+Schrödinger
+* Wrestles with: Hates his own equation's implications
+* Math says: ψ evolves deterministically, |ψ|² probabilistic
+* Claims: ψ IS physical wave (over-certain, then retracts)
+* Tension: Wanted identity-first, math forced motion-first, created cat paradox to show identity-first fails, never accepted motion-first
+* Pattern: Internal contradiction he never resolved, died frustrated
+
+Einstein
+* Wrestles with: Math works but "can't be complete"
+* Math says: Predictions accurate, correlations violate classical bounds
+* Claims: "God doesn't play dice" (demands certainty QM doesn't provide)
+* Tension: Accepts math, rejects interpretation, demands identity-first must exist underneath, knows he's losing argument but can't abandon position
+* Pattern: Consistency over correctness, ideological commitment
+
+Bell
+* Wrestles with: Proved identity-first impossible, prefers identity-first anyway
+* Math says: No local hidden variables possible
+* Claims: "Proved something fundamental" (correct certainty)
+* Tension: Theorem proves motion-first required, personally prefers Bohm (identity-first rescue), aware of irony
+* Pattern: Honest about what math says vs what he wants
+
+Everett
+* Wrestles with: Correct physics, insane ontology
+* Math says: No collapse needed, just entanglement
+* Claims: "All branches exist" (excess certainty about ontology)
+* Tension: Eliminated collapse correctly (motion-first), added branch ontology (identity-first rescue), created new interpretation problem while solving old one
+* Pattern: Fixed one thing, broke another, didn't see the trade-off
+
+Zeh/Zurek (Decoherence)
+* Wrestles with: Found mechanism, still uses wrong language
+* Math says: Environment forces rapid resolution
+* Claims: "Solves measurement problem" (over-certain) vs "Doesn't solve it" (under-certain)
+* Tension: Discovered motion-first mechanism, presented in identity-first language ("destroys coherence"), debate continues because framing still wrong
+* Pattern: Right mechanism, wrong vocabulary
+
+## Medium Tension (Uncomfortable but Functional)
+
+Pauli
+* Wrestles with: Wants rigor but respects mystery
+* Math says: Exclusion principle, spin
+* Claims: "Don't ask what electron IS" (appropriately uncertain)
+* Tension: Sees identity-first questions are wrong, tells others to shut up about them, but doesn't provide alternative framing
+* Pattern: Intellectually honest gatekeeper
+
+Dirac
+* Wrestles with: Math is beautiful, interpretation is ugly
+* Math says: Relativistic spinor equation
+* Claims: "Shut up and calculate" (refuses certainty claims)
+* Tension: Makes beautiful math, actively avoids interpretation, sees debates as waste of time
+* Pattern: Escapes tension by ignoring it
+
+Feynman
+* Wrestles with: Knows it works, doesn't know what it means
+* Math says: Path integral equivalent to Schrödinger
+* Claims: "Nobody understands QM" (admits universal uncertainty)
+* Tension: Brilliant calculator, terrible interpreter, comfortable with not knowing, uses identity-first language because convenient
+* Pattern: Pragmatic acceptance of confusion
+
+von Neumann
+* Wrestles with: Rigorous math, sloppy interpretation
+* Math says: Two evolution types (unitary + collapse)
+* Claims: "Measurement is fundamental process" (too certain about wrong thing)
+* Tension: Formalized the problem instead of solving it, made identity-first look mathematically necessary, didn't see he'd created confusion
+* Pattern: Mathematical rigor masks conceptual error
+
+## Low Tension (Comfortable with Position)
+
+De Broglie
+* Wrestles with: Nothing (early), then abandons position
+* Math says: λ = h/p for particles
+* Claims: "Matter has wavelength" (identity-first, certain)
+* Tension: None initially, later tries pilot wave with Bohm, gives up
+* Pattern: Early insight, later confused, doesn't fight
+
+Planck
+* Wrestles with: Nothing (accepts revolution reluctantly)
+* Math says: E = nhν
+* Claims: "Just a mathematical trick" (appropriate uncertainty)
+* Tension: None, knows he doesn't understand it, okay with that
+* Pattern: Conservative, admits limits
+
+Sommerfeld
+* Wrestles with: Nothing (teacher, not revolutionary)
+* Math says: Fine structure formula
+* Claims: Extends Bohr's model (identity-first, certain about extensions)
+* Tension: None, happy to work within framework
+* Pattern: Consolidator, not questioner
+
+## Zero Tension (True Believers)
+
+Bohm
+* Wrestles with: Nothing (committed to identity-first)
+* Math says: Can reproduce QM with hidden variables + non-local wave
+* Claims: "Particles HAVE definite positions always" (maximum certainty)
+* Tension: Zero - knows it's complex, doesn't care, identity-first is non-negotiable
+* Pattern: Ideological commitment to identity-first regardless of cost
+
+Deutsch (Many-Worlds)
+* Wrestles with: Nothing (certain Many-Worlds is correct)
+* Math says: Unitary evolution only
+* Claims: "All branches exist, this is obviously right" (maximum certainty)
+* Tension: Zero - sees interpretation as solved, dismisses alternatives
+* Pattern: Evangelical certainty
+
+QBists (Fuchs, Caves, Schack)
+* Wrestles with: Nothing (certain it's about beliefs)
+* Math says: ψ is subjective probability assignment
+* Claims: "ψ represents agent's beliefs" (certain but wrong level)
+* Tension: Zero - comfortable with radical position, too far into subjectivity
+* Pattern: Overcorrection to motion-first (into pure subjectivism)
+
+Wheeler
+* Wrestles with: Everything is information (but certain about it)
+* Math says: Delayed choice experiments
+* Claims: "It from bit" (certain but vague)
+* Tension: Moderate - knows something deep is happening, can't quite articulate it, throws out provocative ideas without rigorous follow-through
+* Pattern: Mystic clarity
+
+Wigner
+* Wrestles with: Nothing (certain consciousness matters)
+* Math says: Measurement causes collapse
+* Claims: "Consciousness causes collapse" (excess certainty)
+* Tension: Zero - committed to consciousness role, doesn't question it
+* Pattern: Philosophical certainty overwhelming evidence
+
+## Certainty Audit
+
+```
+Certainty Gap = Claimed certainty - Math certainty
+```
+
+### Negative gap (under-claiming)
+
+* Bohr: Math certain about incompatibility, claims vague complementarity
+* Feynman: Math certain about predictions, claims "nobody understands"
+* Born: Math certain about probability, claims limited to observations
+
+### Zero gap (aligned)
+
+* Pauli: "Don't ask what IS" matches math's operational structure
+* Dirac: "Shut up and calculate" matches math's predictive certainty
+* Bell: "Hidden variables impossible" matches theorem
+
+### Positive gap (over-claiming)
+
+* Schrödinger: Math says probabilistic, claims ψ IS physical wave
+* Einstein: Math says correlations, claims "incomplete"
+* Bohm: Math says predictions, claims particles HAVE positions
+* Everett: Math says no collapse, claims all branches EXIST
+* Wigner: Math says measurement, claims consciousness CAUSES
+* Deutsch: Math says unitary, claims parallel universes EXIST
+* von Neumann: Math says incompatible evolution types, claims measurement IS fundamental
+
+### Patterns
+
+High tension correlates with:
+* Being present at formulation (1925-1930)
+* Understanding math deeply
+* Seeing gap between math and language
+* Caring about interpretation
+
+Low tension correlates with:
+* Joining later (post-1950)
+* Ideological commitment
+* Either: Not caring about interpretation OR being certain about interpretation
+
+> [!NOTE]
+> * Those who felt most tension made biggest contributions (Heisenberg, Bohr, Born)
+> * Those who felt least tension caused most confusion (Bohm, Deutsch, Wigner)
+> * Those who escaped tension by calculation (Dirac, Feynman) were wisest
+
+### Certainty pattern
+
+```
+* Motion-first advocates:  
+Under-claim certainty (Bohr, Born, Feynman)
+
+* Identity-first advocates:  
+Over-claim certainty (Bohm, Deutsch, Wigner)
+```
+
+## Short-term/Long-term Tradeoffs
+
+Motion-first: 
+```
+* short term value drops 
+  (Bohr incomprehensible, Born dismissed)
+* long-term truth currency
+  (decoherence, quantum info vindicate it)
+```
+
+Identity-first:
+```
+* short term acceptance + immediate grasp
+  (Schrödinger won, Bohm has followers)
+* long term distortion
+  (interpretations multiply, consensus impossible)
+```
+
+---
+
+Copyright (C) 2025-2026 Annie Tran (@nntrn)
