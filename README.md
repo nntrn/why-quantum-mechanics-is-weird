@@ -1,0 +1,290 @@
+<div id="top"></div>
+
+# Why quantum mechanics is weird
+
+Quantum weirdness occurs because we use *biology-style* identity language to explain *psychology-style* inference math inside a discipline where Newton demonstrated it was possible to solve without reference to observation.
+
+It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language.
+
+## Classification
+
+* Identity doesn't determine behavior uniquely (1:m)
+* Motion/behavior suggests identity but doesn't prove it (m:1)
+
+### Identity-first
+
+```
+Identity => Motion (1:m)
+* One identity, many behaviors
+* Forward prediction
+
+"Observable property" 
+(thing that exists to be observed)
+```
+
+Examples:
+
+- **QM**: "Electron in ground state" => might be measured here or there (1:m)
+- **Good**: `is:tiger => will:run fast`
+- **Bad**: `is:programmer => knows:javascript` 
+
+---
+
+### Motion-first 
+
+```
+Motion => Identity (m:1) or (m:0)
+* Many behaviors, ambiguous identity
+* Backward inference
+* Inherently probabilistic
+
+"What can be observed"
+(process, event)
+```
+
+Examples:
+
+- **QM**: "Measured here" => electron was probably in superposition including this location (m:1)
+- **Good**: `see:javascript coding => infer:programmer`
+- **Bad**: `see:fast running => infer:tiger`
+
+[[TOP]](#top)
+
+## Semantic Errors
+
+### Misclassification
+
+Labeling motion-first math as identity-first
+
+```
+Math says (valid): 
+P(outcome) = |⟨outcome|ψ⟩|²
+(motion-first: observation → probability)
+
+Textbook says (invalid): 
+"The system is in state ψ"
+(identity-first: system HAS state)
+```
+
+Specific instances:
+
+* **"Wavefunction describes the system"**  
+Motion-first math (inference model) labeled identity-first (entity description)
+
+* **"Particle has spin 1/2"**  
+Motion-first property (emerges from measurement) labeled identity-first (inherent property)
+
+* **"Energy levels are discrete"**  
+Motion-first outcome (measurement results) labeled identity-first (things that exist)
+
+### Code switching
+
+**What it is:** 
+Flipping between identity-first and motion-first within same explanation, sometimes mid-sentence
+
+```
+SENTENCE 1 (identity-first):
+"The electron is in a superposition of states"
+
+SENTENCE 2 (motion-first): 
+"When measured, it gives one outcome with probability |α|²"
+
+SENTENCE 3 (identity-first): 
+"Before measurement, it exists in both states"
+
+SENTENCE 4 (motion-first): 
+"The measurement forces a definite outcome"
+```
+
+[[TOP]](#top)
+
+### Meta Pattern
+
+Always reduces to:
+```
+Observable => Classification => 
+Inference => Prediction
+```
+
+The shift:
+```
+From: What IS it?
+To: What will measurements show?
+
+From: Properties system has
+To: Outcomes measurements yield
+
+From: Ontology (being)
+To: Epistemology (knowing)
+
+From: Identity first
+To: Motion first
+```
+
+[[TOP]](#top)
+
+## Paradoxes
+
+### Semantic (Pseudo-)Paradoxes
+
+Arise due to language, identity-first framing, or category errors; can be resolved by clarifying process, context, or measurement limits.
+
+#### 1. Schrödinger's Cat
+
+"The cat is both dead and alive until you look."
+
+**Why it's a paradox**:
+In classical terms, a macroscopic object cannot simultaneously possess mutually exclusive properties.
+
+**Resolution**: 
+Motion-first: The cat-system is unresolved between "dead" and "alive" due to entanglement and decoherence; measurement or environment rapidly resolves to one outcome. The cat is not "both"-the status is an unresolved possibility, not a coexisting reality.
+
+#### 2. Wave-Particle Duality
+
+"Light and matter are both waves and particles at the same time."
+
+**Why it's a paradox**: 
+Waves and particles are classically incompatible descriptions; QM seems to require both.
+
+**Resolution**: 
+Motion-first: What is observed depends on the measurement context; the system resolves as wave-like or particle-like based on constraints, not as a simultaneous identity.
+
+#### 3. Collapse by Observation
+
+"Measurement collapses the wavefunction and creates reality."
+
+**Why it's a paradox**: 
+Suggests reality depends on observers, making existence observer-dependent.
+
+**Resolution**: 
+Motion-first: Measurement is the process of resolving constraints between system and apparatus; collapse is a description of information update, not physical creation.
+
+#### 4. Quantum Superposition as Ontological Multiplicity
+
+"A particle exists in all possible states at once until measured."
+
+**Why it's a paradox**: 
+It suggests literal simultaneous existence in mutually exclusive configurations.
+
+**Resolution**: 
+Motion-first: Superposition describes unresolved possibilities; measurement or environment resolves one, not coexistence.
+
+#### 5. Electron Path in Double-Slit
+
+"An electron goes through both slits and neither slit at the same time."
+
+**Why it's a paradox**: 
+Contradicts classical logic of trajectories.
+
+**Resolution**: 
+Motion-first: The path is not defined without measurement; probability amplitudes interfere, yielding observed distributions.
+
+#### 6. Quantum Eraser/Delayed Choice
+
+"Future choices determine past particle behavior."
+
+**Why it's a paradox**: 
+Suggests retrocausality-future affects the past.
+
+**Resolution**: 
+Motion-first: Choice of measurement basis determines which correlations are observed; no retroactive change, only change in accessible information.
+
+#### 7. Observer-Created Reality
+
+"The universe does not exist unless observed."
+
+**Why it's a paradox**: 
+Collapses objective reality into subjectivity.
+
+**Resolution**: 
+Motion-first: Observability is about what constraints are resolved at a given scale; existence is not created by observation, only made accessible.
+
+#### 8. Quantum Teleportation Paradox
+
+"A quantum state is instantly transported from one place to another."
+
+**Why it's a paradox**: 
+Implies faster-than-light information transfer.
+
+**Resolution**: 
+Motion-first: Teleportation requires classical communication plus entanglement; no information travels faster than light.
+
+[[TOP]](#top)
+
+### Real Paradoxes
+
+Persist after semantic correction; rooted in theory or experiment, not language.
+
+#### 1. The (Hard) Measurement Problem
+
+"How does a unique outcome emerge from deterministic wavefunction evolution?"
+
+**Why it's a paradox**: 
+The linear, deterministic Schrödinger equation does not explain why only one outcome is observed in practice (the "problem of outcomes").
+
+**Resolution**: 
+No complete solution; decoherence explains loss of interference, but not outcome selection.
+
+#### 2. Quantum Nonlocality/Bell Inequality Violations
+
+"Entangled particles influence each other instantly at a distance."
+
+**Why it's a paradox**: 
+Quantum predictions violate local hidden variable constraints, but do not allow signaling.
+
+**Resolution**: 
+No local hidden variable model can explain results; QM correlations are real and nonlocal in constraint structure, but do not transmit information faster than light.
+
+#### 3. Contextuality (Kochen-Specker)
+
+"Measurement outcomes depend on what else is measured."
+
+**Why it's a paradox**: 
+Challenges the classical notion that properties exist independently of context.
+
+**Resolution**: 
+Measurement context determines what can be resolved; properties do not exist in all bases simultaneously.
+
+#### 4. Born Rule Origin
+
+"Why do measurement probabilities follow the squared amplitude (Born rule)?"
+
+**Why it's a paradox**: 
+No fundamental derivation within standard quantum theory; why this particular rule?
+
+**Resolution**: 
+Remains an open question; some attempts at derivation (decision theory, Gleason's theorem), but no consensus.
+
+#### 5. Quantum-Classical Transition
+
+"How does definite classical reality emerge from quantum indeterminacy?"
+
+**Why it's a paradox**:
+Decoherence explains loss of interference, but not how a unique outcome is selected.
+
+**Resolution**: 
+Partial resolution via decoherence, but the problem of outcomes persists.
+
+#### 6. Time Symmetry and Irreversibility
+
+"Quantum laws are time-symmetric, but measurement and macroscopic processes are not."
+
+**Why it's a paradox**: 
+How does irreversible behavior (collapse, thermodynamics) arise from reversible dynamics?
+
+**Resolution**: 
+Still open; linked to the arrow of time, thermodynamics, and measurement.
+
+#### 7. Quantum Gravity/Space-Time Measurement
+
+"How does quantum mechanics apply to gravity or space-time itself?"
+
+**Why it's a paradox**: 
+No complete quantum theory of gravity; unclear how quantum measurement applies to space-time geometry.
+
+**Resolution**: 
+Unsolved; central question in quantum gravity research.
+
+---
+
+[[TOP]](#top)
