@@ -6,7 +6,7 @@ Quantum weirdness occurs because we use *biology-style* identity language to exp
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
-> [!WARN]
+> [!WARNING]
 > **NOISY CLAIMS**  
 > Claims that lack mathematical structure
 > 
