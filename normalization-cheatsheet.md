@@ -1,4 +1,4 @@
-# Quantum Drift Cheatsheet
+# Normalization Cheatsheet
 
 > [!NOTE]
 > In this project, 
@@ -6,8 +6,6 @@
 > * Psychology is used to mean **motion-first**
 >
 > ... and vice versa 
-
----
 
 ## IDENTITY-FIRST (Biology Structure)
 
@@ -42,7 +40,6 @@ IDENTITY STATEMENT → BEHAVIOR PREDICTION
 ### Mathematical Equations/Expressions
 
 Classical Mechanics:
-
 ```
 F = ma
 [mass (identity property) → acceleration (behavior)]
@@ -52,7 +49,6 @@ x(t) = x₀ + v₀t + ½at²
 ```
 
 Thermodynamics:
-
 ```
 PV = nRT
 [gas properties (identity) → relations between them]
@@ -62,7 +58,6 @@ dU = TdS - PdV
 ```
 
 Classical Hamiltonian:
-
 ```
 H(q,p) = T(p) + V(q)
 [phase space point (identity) → energy value]
@@ -72,7 +67,6 @@ dq/dt = ∂H/∂p, dp/dt = -∂H/∂q
 ```
 
 General Form:
-
 ```
 S(t₀) → S(t) for all t > t₀
 [identity at moment → behavior over time]
@@ -106,14 +100,12 @@ No probabilistic outcomes (unless epistemic uncertainty)
 ```
 
 Valid reasoning:
-
 ```
 IF identity confirmed (tiger) 
 THEN predict behavior (can run fast, hunt, etc.)
 ```
 
 Invalid reasoning:
-
 ```
 IF behavior observed (runs fast)
 THEN identity certain (must be tiger)
@@ -123,7 +115,7 @@ THEN identity certain (must be tiger)
 
 ## MOTION-FIRST (Psychology Structure)
 
-Core Logic
+### Core Logic
 
 ```
 What something DOES → Infer what it IS
@@ -131,7 +123,7 @@ What something DOES → Infer what it IS
 (m:1 mapping - many behaviors, one/zero/many possible identities)
 ```
 
-Semantic Equations (POS)
+### Semantic Equations (POS)
 
 ```
 VERB → NOUN (inference)
@@ -177,7 +169,7 @@ d⟨A⟩/dt = (i/ℏ)⟨[Ĥ,A]⟩
 
 Bayesian Inference:
 ```
-P(identity|behavior) = P(behavior|identity)·P(identity) / P(behavior)
+P(identity|behavior) = P(behavior|identity) * P(identity) / P(behavior)
 
 [behavior observed → probability of identity]
 [Posterior depends on observation (motion)]
@@ -185,7 +177,9 @@ P(identity|behavior) = P(behavior|identity)·P(identity) / P(behavior)
 
 State Space Evolution:
 ```
-ψ(t+dt) = U(dt)·ψ(t)  [deterministic constraint evolution]
+ψ(t+dt) = U(dt) * ψ(t)  
+[deterministic constraint evolution]
+
 Measurement → ψ_after = |i⟩ with P = |⟨i|ψ⟩|²  [probabilistic classification]
 ```
 
@@ -224,7 +218,6 @@ Context-sensitive (measurement basis matters)
 ```
 
 Valid reasoning:
-
 ```
 IF behavior observed (flips table)
 THEN infer identity possibilities (bad drunk, sore loser, etc.)
@@ -232,7 +225,6 @@ AND acknowledge ambiguity (m:1 = multiple possible identities)
 ```
 
 Invalid reasoning:
-
 ```
 IF behavior observed (particle appears here)
 THEN identity certain (particle WAS here before measurement) ✗
@@ -312,7 +304,6 @@ Identity-First (Classical):
 "The system has energy E = 10J"
 
 Math: H(q,p) = 10J
-
 Meaning: Energy IS property of system
 Prediction: Energy will be 10J (conservation)
 Question: "What is the system's energy?"
@@ -389,25 +380,31 @@ Statement | Hidden Structure | Should Say
 Ask: "Can I calculate outcomes without reference to observation/measurement?"
 
 ```
-* YES → Identity-first (classical mechanics, thermodynamics)
-* NO → Motion-first (quantum mechanics, Bayesian inference)
+* YES → Identity-first 
+  (classical mechanics, thermodynamics)
+* NO → Motion-first 
+  (quantum mechanics, Bayesian inference)
 ```
 
 Ask: "Do different measurement types give incompatible results?"
 
 ```
-* NO → Identity-first (measurements reveal same underlying properties)
-* YES → Motion-first (measurement type determines classification scheme)
+* NO → Identity-first 
+  (measurements reveal same underlying properties)
+* YES → Motion-first 
+  (measurement type determines classification scheme)
 ```
 
 Ask: "Can properties be specified completely and simultaneously?"
 
 ```
-* YES → Identity-first (complete state specification possible)
-* NO → Motion-first (uncertainty/complementarity)
+* YES → Identity-first 
+  (complete state specification possible)
+* NO → Motion-first 
+  (uncertainty/complementarity)
 ```
 
-## THE KEY INSIGHT
+## KEY INSIGHT
 
 Why QM is confusing:
 
