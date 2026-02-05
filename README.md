@@ -6,21 +6,6 @@ Quantum weirdness occurs because we use *biology-style* identity language to exp
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
-> [!WARNING]
-> **NOISY CLAIMS**  
-> Claims that lack mathematical structure
-> 
-> * "Particles being in multiple places"
-> * "Properties existing before measurement"
-
-missing for "particles being in multiple places": 
-> * joint value assignment like `position(system,time) -> {positions}`
-> * probability addition like `P(A or B) = P(A) + P(B)`
-
-missing for "properties existing before measurement":
-> * global hidden state like `value(system,observable) -> definite_number`
-> * commuting observables like `A @ B == B @ A`
-
 ## Classification
 
 * Identity doesn't determine behavior uniquely (1:m)
