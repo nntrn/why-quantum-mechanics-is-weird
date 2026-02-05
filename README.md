@@ -6,23 +6,20 @@ Quantum weirdness occurs because we use *biology-style* identity language to exp
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
-**NOISY CLAIMS**  
-Not supported or even suggested by math in quantum mechanics 
+> [!WARN]
+> **NOISY CLAIMS**  
+> Claims that lack mathematical structure
+> 
+> * "Particles being in multiple places"
+> * "Properties existing before measurement"
 
-* "Particles being in multiple places"
-* "Properties existing before measurement"
+missing for "particles being in multiple places": 
+> * joint value assignment like `position(system,time) -> {positions}`
+> * probability addition like `P(A or B) = P(A) + P(B)`
 
-To support those claims, the math would have something like:
-
-[for "particles being in multiple places":]
-* joint value assignment 
-  like `position(system, time) -> {positions}`
-* probability addition 
-  like `P(A or B) = P(A) + P(B)`
-
-[for "properties existing before measurement":]
-* global hidden state like `value(system, observable) -> definite_number`
-* commuting observables like `A @ B == B @ A`
+missing for "properties existing before measurement":
+> * global hidden state like `value(system,observable) -> definite_number`
+> * commuting observables like `A @ B == B @ A`
 
 ## Classification
 
@@ -41,12 +38,9 @@ Identity => Motion (1:m)
 ```
 
 Examples:
-
 - **QM**: "Electron in ground state" => might be measured here or there (1:m)
 - **Good**: `is:tiger => will:run fast`
 - **Bad**: `is:programmer => knows:javascript` 
-
----
 
 ### Motion-first 
 
@@ -61,7 +55,6 @@ Motion => Identity (m:1) or (m:0)
 ```
 
 Examples:
-
 - **QM**: "Measured here" => electron was probably in superposition including this location (m:1)
 - **Good**: `see:javascript coding => infer:programmer`
 - **Bad**: `see:fast running => infer:tiger`
