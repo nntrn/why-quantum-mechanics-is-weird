@@ -1,15 +1,12 @@
-<div id="top"></div>
-
 # Why quantum mechanics is weird
+
+<div id="top"></div>
 
 Quantum weirdness occurs because we use *biology-style* identity language to explain *psychology-style* inference math inside a discipline where Newton demonstrated it was possible to solve without reference to observation
 
 It is the felt contradiction that arises when *motion-first* inference-based math is explained using *identity-first* entity-based language
 
 ## Classification
-
-* Identity doesn't determine behavior uniquely (1:m)
-* Motion/behavior suggests identity but doesn't prove it (m:1)
 
 ### Identity-first
 
@@ -377,3 +374,13 @@ Unsolved; central question in quantum gravity research
 ---
 
 [[TOP]](#top)
+
+## License
+
+&copy; 2026 [Annie Tran]
+
+This repository is licensed under the MIT license. See [LICENSE] for details.
+
+[Annie Tran]: https://github.com/nntrn
+[Author]: nntrn@proton.me
+[LICENSE]: ./LICENSE
