@@ -8,10 +8,20 @@ It is the felt contradiction that arises when *motion-first* inference-based mat
 
 ## Classification
 
+*a tiger is not a tiger because it is fast, it is fast because it is a tiger*
+
+#### Identity:
+*"The particle's wavefunction is spread out over space."*  
+**Why bad**: This suggests the particle physically occupies multiple locations
+
+#### Motion:
+*"The wavefunction predicts the probabilities of detecting the particle at different locations."*  
+**Why good**: This clarifies that the wavefunction is about measurement outcomes, not the particle's "actual" state.
+
 ### Identity-first
 
 ```
-Identity => Motion (1:m)
+Identity --> Motion (1:m)
 * One identity, many behaviors
 * Forward prediction
 
@@ -21,13 +31,11 @@ Identity => Motion (1:m)
 
 Examples:
 - **QM**: "Electron in ground state" => might be measured here or there (1:m)
-- **Good**: `is:tiger => will:run fast`
-- **Bad**: `is:programmer => knows:javascript` 
 
 ### Motion-first 
 
 ```
-Motion => Identity (m:1) or (m:0)
+Motion --> Identity (m:1) or (m:0)
 * Many behaviors, ambiguous identity
 * Backward inference
 * Inherently probabilistic
@@ -37,9 +45,7 @@ Motion => Identity (m:1) or (m:0)
 ```
 
 Examples:
-- **QM**: "Measured here" => electron was probably in superposition including this location (m:1)
-- **Good**: `see:javascript coding => infer:programmer`
-- **Bad**: `see:fast running => infer:tiger`
+- **QM**: "Measured here" => electron was probably in superposition including this location 
 
 [[TOP]](#top)
 
@@ -52,7 +58,7 @@ Labeling motion-first math as identity-first
 ```
 Math says (valid): 
 P(outcome) = |⟨outcome|ψ⟩|²
-(motion-first: observation → probability)
+(motion-first: observation --> probability)
 
 Textbook says (invalid): 
 "The system is in state ψ"
@@ -371,7 +377,7 @@ No complete quantum theory of gravity; unclear how quantum measurement applies t
 **Resolution**: 
 Unsolved; central question in quantum gravity research
 
----
+--
 
 [[TOP]](#top)
 
@@ -382,5 +388,6 @@ Unsolved; central question in quantum gravity research
 This repository is licensed under the MIT license. See [LICENSE] for details.
 
 [Annie Tran]: https://github.com/nntrn
+[Repo]: https://github.com/nntrn/why-quantum-mechanics-is-weird
 [Author]: nntrn@proton.me
 [LICENSE]: ./LICENSE
