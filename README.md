@@ -8,14 +8,15 @@ It is the felt contradiction that arises when *motion-first* inference-based mat
 
 ## Classification
 
-*a tiger is not a tiger because it is fast, it is fast because it is a tiger*
+    A tiger is not a tiger because it is fast, 
+    it is fast because it is a tiger
 
-#### Identity:
-*"The particle's wavefunction is spread out over space."*  
+Identity-first:  
+"The particle's wavefunction is spread out over space."  
 **Why bad**: This suggests the particle physically occupies multiple locations
 
-#### Motion:
-*"The wavefunction predicts the probabilities of detecting the particle at different locations."*  
+Motion-first:  
+"The wavefunction predicts the probabilities of detecting the particle at different locations."  
 **Why good**: This clarifies that the wavefunction is about measurement outcomes, not the particle's "actual" state.
 
 ### Identity-first
@@ -29,9 +30,6 @@ Identity --> Motion (1:m)
 (thing that exists to be observed)
 ```
 
-Examples:
-- **QM**: "Electron in ground state" => might be measured here or there (1:m)
-
 ### Motion-first 
 
 ```
@@ -43,9 +41,6 @@ Motion --> Identity (m:1) or (m:0)
 "What can be observed"
 (process, event)
 ```
-
-Examples:
-- **QM**: "Measured here" => electron was probably in superposition including this location 
 
 [[TOP]](#top)
 
