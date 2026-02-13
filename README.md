@@ -46,6 +46,23 @@ Motion --> Identity (m:1) or (m:0)
 
 ## Semantic Errors
 
+```
+Identity: "The electron is in a superposition of positions."
+Motion: "The electron may yield measurement outcomes in positions."
+
+Identity: "The wavefunction describes the system's state."
+Motion: "The wavefunction predicts measurement outcomes for the system's state."
+
+Identity: "The particle has spin-up along the z-axis."
+Motion: "Measuring spin will yield up along the z-axis."
+
+Identity: "The cat is both alive and dead until observed."
+Motion: "Before observation, the system predicts equal probabilities for 'alive' and 'dead' outcomes."
+
+Identity: "The electrons are instantaneously connected."
+Motion: "The electrons yield correlated measurement outcomes."
+```
+
 ### Misclassification
 
 Labeling motion-first math as identity-first
